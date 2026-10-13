@@ -1,0 +1,15 @@
+{
+  "key.categories.tooltiptruncatescroll": "提示框截断与滚动",
+  "key.tooltiptruncatescroll.page_up": "提示框上一页",
+  "key.tooltiptruncatescroll.page_down": "提示框下一页",
+  "tooltip.tooltiptruncatescroll.page": "第 %1$s/%2$s 页",
+  "tooltiptruncatescroll.config.enableLineLimit": "限制显示行数",
+  "tooltiptruncatescroll.config.maxLines": "每页正文行数",
+  "tooltiptruncatescroll.config.enableCharLimit": "限制单行字符长度",
+  "tooltiptruncatescroll.config.maxCharsPerLine": "每行最大字符宽度",
+  "tooltiptruncatescroll.config.chineseDoubleWidth": "中文字符按双倍宽度计算",
+  "tooltiptruncatescroll.config.enableScroll": "启用滚轮滚动",
+  "tooltiptruncatescroll.config.scrollSpeed": "每个滚轮刻度移动行数",
+  "tooltiptruncatescroll.config.enablePageFlip": "启用按键翻页",
+  "tooltiptruncatescroll.config.showPageIndicator": "显示页码"
+}

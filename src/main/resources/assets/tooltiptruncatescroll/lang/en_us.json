@@ -1,0 +1,15 @@
+{
+  "key.categories.tooltiptruncatescroll": "Tooltip Truncate Scroll",
+  "key.tooltiptruncatescroll.page_up": "Previous tooltip page",
+  "key.tooltiptruncatescroll.page_down": "Next tooltip page",
+  "tooltip.tooltiptruncatescroll.page": "Page %1$s/%2$s",
+  "tooltiptruncatescroll.config.enableLineLimit": "Limit visible lines",
+  "tooltiptruncatescroll.config.maxLines": "Lines per page",
+  "tooltiptruncatescroll.config.enableCharLimit": "Limit characters per line",
+  "tooltiptruncatescroll.config.maxCharsPerLine": "Maximum character width per line",
+  "tooltiptruncatescroll.config.chineseDoubleWidth": "Count Chinese characters as double width",
+  "tooltiptruncatescroll.config.enableScroll": "Enable mouse wheel scrolling",
+  "tooltiptruncatescroll.config.scrollSpeed": "Lines per wheel step",
+  "tooltiptruncatescroll.config.enablePageFlip": "Enable keyboard paging",
+  "tooltiptruncatescroll.config.showPageIndicator": "Show page indicator"
+}

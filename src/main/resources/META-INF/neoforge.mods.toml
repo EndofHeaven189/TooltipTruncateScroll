@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="tooltiptruncatescroll"
+version="${mod_version}"
+displayName="TooltipTruncateScroll"
+authors="TooltipTruncateScroll contributors"
+description='''
+Client-side tooltip truncation, scrolling and keyboard paging.
+客户端提示框截断、滚轮滚动和按键翻页。
+'''
+
+[[dependencies.tooltiptruncatescroll]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.172,21.2)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.tooltiptruncatescroll]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="CLIENT"
+
